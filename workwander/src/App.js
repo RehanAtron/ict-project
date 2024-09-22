@@ -1,6 +1,8 @@
+import ListGroup from "./List";
+
 function App(){
   return <div>
-    <h1>Hello World!</h1>
+    <h1><ListGroup /></h1>
   </div>;
 }
 
